@@ -1,0 +1,6 @@
+{
+	"to": "somebody@domain.com",
+	"from": "me@mydomain.com",
+	"subject": "Just checking in",
+	"body":"Dear Somebody,\nJust checking in to see how things are going.\n\nRegards,\n\tMe"
+}
